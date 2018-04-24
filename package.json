@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack",
     "build": "webpack --env.mode=production",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "piotr_klosowski@epam.com",
   "license": "ISC",
